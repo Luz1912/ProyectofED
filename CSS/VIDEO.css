@@ -1,0 +1,59 @@
+.imagenlogo img{
+	width: 3%;
+	right: 10px;
+	display: inline-block;
+  	position: absolute;
+}
+
+.video{
+  padding: 15px;
+  width: 100%;
+}
+
+.video h1{
+  padding: 10px;
+  width: 100%;
+  font-size: 45px;
+  text-align:center;
+  margin-bottom:1px;
+  display: inline-block;
+  right: 20em;
+}
+
+.video1{
+	width: 50%;
+	padding: 20px;
+	
+}
+
+.video1 video{
+	right: 20em;
+	width: 50%;
+	display: inline-block;
+	position: absolute;
+}
+
+.presentacion__video{
+	padding: 15px;
+ 	width: 100%;
+
+}
+.presentacion__video h1{
+
+	padding: 10px;
+  	width: 100%;
+	margin-top: 15em;
+  	font-size: 45px;
+  	text-align:center;
+  	margin-bottom:1px;
+  	display: inline-block;
+  	right: 20em;
+}
+.pdf{
+	padding: 20px;
+	margin-top: .9px;
+	width: 80%;
+	position:absolute;
+	left: 125px;
+}
+

@@ -1,0 +1,97 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  border-bottom: solid #329f93;
+  font-weight: bolder;
+}
+
+body{
+  background-color: #79B4B7;
+
+  font-family: 'Open Sans', cursive;
+}
+
+/*Header*/
+header{
+
+  background-color: #79B4B7;
+  padding: 17px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+}
+
+nav{
+
+  display: inline-block;
+  padding: 1px;
+}
+
+.logo{
+
+  display: inline-block;
+  position: absolute;
+  right: 50px;
+  width: 100%;
+  top: 1px;
+  }
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+
+/*main*/
+main{
+  margin-top: 14vh;
+  margin-bottom: 16vh;
+
+}
+
+
+/*Cuestionario*/
+.cuestionario{
+  padding: 3px;
+}
+
+.cuestionario h1{
+  width: 100%;
+  font-size: 50px;
+  text-align:center;
+  margin-bottom:10px;
+  display: inline-block;
+
+}
+
+#puntuacionfinal{
+  font-size: 25px;
+  color: white;
+}
+
+.numero{
+  width: 90%;
+  color:black;
+  font-family:'Open Sans', cursive;
+  font-size: 50px;
+  text-align: justify;
+
+} 
+.pregunta{
+  widows: 90%;
+  color:white;
+  font-family:'Open Sans', cursive;
+  font-size: 20px;
+  text-align: justify;
+}

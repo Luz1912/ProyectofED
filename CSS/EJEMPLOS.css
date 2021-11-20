@@ -1,0 +1,222 @@
+.imagenlogo img{
+	width: 3%;
+	right: 10px;
+	display: inline-block;
+  	position: absolute;
+	/*background-color: #D4ECDD;*/
+}
+.fondo__imagen{
+	display: inline-block;
+	width: 100%;
+}
+.ejemplos{
+  padding: 3px;
+  width: 100%;
+}
+.ejemplos h1{
+  padding: 10px;
+  width: 90%;
+  font-size: 40px;
+  text-align:center;
+  margin-bottom:1px;
+  display: inline-block;
+}
+.ejemplo1{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 70%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo1 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.imagen1{
+	right: 10em;
+	left: 60em;
+	margin-top:1em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.imagen1 img{
+	width: 19%;
+}
+.ejemplo2{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 70%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo2 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo3{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 70%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo3 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.imagen2{
+	right: 10em;
+	left: 60em;
+	margin-top:1em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.imagen2 img{
+	width: 19%;
+}
+.ejemplo4{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 70%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo4 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo5{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 95%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo5 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo6{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 70%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo6 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.imagen3{
+	right: 10em;
+	left: 60em;
+	margin-top:1em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.imagen3 img{
+	width: 19%;
+}
+
+.ejemplo61{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 90%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo7{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 90%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo7 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo8{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 90%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo8 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo9{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 90%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo9 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo10{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 90%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo10 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo11{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 90%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo11 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}
+.ejemplo12{
+	font-size: 25px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 90%;
+	left: 7 px;
+	text-align: justify;
+}
+.ejemplo12 h1{
+	text-align-last: 5px;
+	font-size: 28px;
+}

@@ -1,0 +1,413 @@
+.imagenlogo img{
+	width: 3%;
+	right: 10px;
+	display: inline-block;
+  	position: absolute;
+	/*background-color: #D4ECDD;*/
+}
+
+.fondo__imagen{
+	display: inline-block;
+	width: 100%;
+}
+
+.section-padding{
+	padding: 10px;
+}
+
+
+.section-padding h1{
+	width: 100%;
+	font-size: 40px;
+	text-align:center;
+	margin-bottom:10px;
+	display: inline-block;
+
+}
+
+.presentacion__texto{
+
+	font-size: 18px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 70%;
+	left: 7 px;
+}
+
+.presentacion__texto h2{
+	text-align-last: 5px;
+	font-size: 26px;
+}
+
+.presentacion__texto p{	
+	text-align: justify;
+
+}
+
+.presentacion__imagen img{
+	width: 22%;
+	right: 36px;
+	display: inline-block;
+  	position: absolute;
+}
+
+.presentacion__imagen2 img{
+	width: 15%;
+	right: 100px;
+	left: 50px;
+	display: inline-block;
+  	position: absolute;
+  	
+}
+.presentacion__texto2{
+
+	font-size: 18px;
+	padding: 20px;
+	display: inline-block;
+	width: 79%;
+	right: 10px;
+  	position: absolute;
+
+}
+.presentacion__texto2 p{	
+	text-align: justify;
+	margin-top: 8 px;
+	margin-bottom: 8px;
+}
+.presentacion__texto3{
+	font-size: 18px;
+	display: inline-block;
+	position: absolute;
+	width: 97%;
+	padding: 25px;
+	right: 2px;
+	left: 2px;
+	
+}
+.presentacion__texto3 p{	
+	text-align: justify;
+	margin-top:15em ;
+	margin-bottom: 10px;
+}
+.presentacion__imagen3{
+	right: 10em;
+	left: 20em;
+	margin-top:50em ;
+	display: inline-block;
+  	position: absolute;
+	width: 40%;
+}
+
+.presentacion__texto4{
+	font-size: 18px;
+	display: inline-block;
+	position: absolute;
+	width: 97%;
+	padding: 25px;
+	right: 2px;
+	left: 2px;
+	
+}
+.presentacion__texto4 p{	
+	text-align: justify;
+	margin-top:52em ;
+	margin-bottom: 10px;
+}
+.presentacion__texto5{
+
+	font-size: 18px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 95%;
+	left: 7 px;
+	margin-top:55em ;
+	margin-bottom: 5px;
+}
+
+.presentacion__texto5 h3{
+	text-align-last: 5px;
+	font-size: 26px;
+}
+.presentacion__texto5 p{	
+	padding: 15px;
+	text-align: justify;
+	margin-top:.5em ;
+	margin-bottom: 3px;
+	
+}
+.presentacion__texto6{
+
+	font-size: 22px;
+	padding: 20px;
+	display: inline-block;
+	right: 4px;
+	width: 100%;
+	left: 7 px;
+	margin-bottom: 10px;
+}
+.presentacion__texto6 p{	
+	padding: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+	
+}
+
+.presentacion__texto7{
+
+	font-size: 18px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 88%;
+	left: 7 px;
+	margin-top:.01em ;
+	margin-bottom: 10px;
+}
+.presentacion__texto7 h3{
+	font-size: 26px;
+	text-align-last: 2px;
+	text-align: center;
+}
+.presentacion__texto7 h4{
+	text-align-last: 2px;
+	font-size: 24px;
+}
+.presentacion__texto7 p{	
+	font-size: 18px;
+	padding: 15px;
+	text-align: justify;
+	margin-top:.01em ;
+	margin-bottom: 10px;
+}
+.presentacion__texto8{
+
+	font-size: 18px;
+	padding: 20px;
+	display: inline-block;
+	right: 10px;
+	width: 80%;
+	left: 10 em;
+	margin-top:.01em ;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.presentacion__texto8 h3{
+	text-align-last: 5px;
+	font-size: 26px;
+}
+.presentacion__texto8 h4{
+	text-align-last: 2px;
+	font-size: 24px;
+}
+.presentacion__texto8 p{	
+	padding: 15px ;
+	text-align: center;
+	margin-top:.01em ;
+	margin-bottom: 0.5px;
+	
+}
+
+.presentacion__imagen4{
+	padding: 1em;
+	margin-top: 50 px;
+	right: 10em;
+	left: 60em;
+	
+	display: inline-block;
+  	
+	width: 30%;
+}
+.presentacion__imagen4 img{
+	width: 17%;
+	right: 100em;
+	left: 65em;
+	display: inline-block;
+  	position: absolute;
+}
+.presentacion__texto9{
+
+	font-size: 19px;
+	padding: 20px;
+	display: inline-block;
+	right: 50px;
+	width: 70%;
+	left: 7 px;
+	margin-top:0.1em ;
+}
+
+.presentacion__texto9 h3{
+	text-align: center;
+	font-size: 26px;
+	text-align-last: 5px;
+}
+
+.presentacion__texto9 p{	
+	text-align: justify;
+	padding: 15px;
+}
+.presentacion__texto10{
+
+	font-size: 18px;
+	padding: 20px;
+	display: inline-block;
+	right: 5px;
+	width: 95%;
+	left: 7 px;
+	margin-top:1em ;
+	margin-bottom: 1px;
+}
+
+.presentacion__texto10 h3{
+	text-align: center;
+	text-align-last: 5px;
+	font-size: 26px;
+}
+.presentacion__texto10 p{	
+	padding: 15px;
+	text-align: justify;
+	margin-top:.5em ;
+	margin-bottom: 1px;
+}
+
+.presentacion__texto11{
+	padding: 35px;
+	position: absolute;
+	width: 70%;
+	margin-top: 0.1em;
+
+
+}
+.presentacion__texto11 h3{
+	text-align-last: 5px;
+	font-size: 24px;
+	padding: 5px;
+}
+.presentacion__texto11 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.presentacion__imagen5{
+	right: 10em;
+	left: 60em;
+	margin-top:17em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.presentacion__imagen5 img{
+	width: 19%;
+}
+.presentacion__texto12{
+	padding: 35px;
+	margin-top: 12em;
+	position: absolute;
+	width: 70%;
+}
+.presentacion__texto12 h3{
+	text-align-last: 5px;
+	font-size: 24px;
+	padding: 5px;
+}
+.presentacion__texto12 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 18px;
+
+}
+.presentacion__imagen6{
+	right: 10em;
+	left: 60em;
+	margin-top:28em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.presentacion__imagen6 img{
+	width: 19%;
+}
+
+.presentacion__texto13{
+	padding: 35px;
+	margin-top: 22em;
+	position: absolute;
+	width: 70%;
+}
+.presentacion__texto13 h3{
+	text-align-last: 5px;
+	font-size: 24px;
+	padding: 5px;
+}
+.presentacion__texto13 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 18px;
+}
+.presentacion__imagen7{
+	right: 10em;
+	left: 60em;
+	margin-top:40em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.presentacion__imagen7 img{
+	width: 20%;
+}
+.presentacion__texto14{
+	padding: 35px;
+	margin-top: 35em;
+	position: absolute;
+	width: 70%;
+}
+.presentacion__texto14 h3{
+	text-align-last: 5px;
+	font-size: 24px;
+	padding: 5px;
+}
+.presentacion__texto14 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 18px;
+}
+.presentacion__imagen8{
+	right: 10em;
+	left: 60em;
+	margin-top:52em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.presentacion__imagen8 img{
+	width: 20%;
+}
+.presentacion__texto15{
+	padding: 35px;
+	margin-top: 47em;
+	position: absolute;
+	width: 70%;
+}
+.presentacion__texto15 h3{
+	text-align-last: 5px;
+	font-size: 24px;
+	padding: 5px;
+}
+.presentacion__texto15 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 18px;
+}
+.presentacion__imagen9{
+	right: 10em;
+	left: 60em;
+	margin-top:65em ;
+	display: inline-block;
+  	position: absolute;
+	width: 100%;
+}
+.presentacion__imagen9 img{
+	width: 20%;
+}

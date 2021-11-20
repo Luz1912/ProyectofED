@@ -1,0 +1,35 @@
+.imagenlogo img{
+  width: 3%;
+  right: 10px;
+  display: inline-block;
+    position: absolute;
+  /*background-color: #D4ECDD;*/
+}
+/*bibliografias*/
+.bibliografias{
+  padding: 3px;
+  width: 70%;
+}
+
+.bibliografias h1{
+  padding: 10px;
+  width: 90%;
+  font-size: 40px;
+  text-align:center;
+  margin-bottom:1px;
+  display: inline-block;
+
+}
+
+.bibliografias p{
+  padding: 15px;
+  left:  3 em;
+  width: 90%;
+  font-size:35 px;
+  text-align:justified;
+  margin-bottom:1px;
+  display: inline-block;
+
+}
+
+.bibliografias

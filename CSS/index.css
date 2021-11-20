@@ -1,0 +1,98 @@
+/*index.html*/
+
+/*Presentacion*/
+
+.section-padding{
+	padding: 22px;
+}
+
+.presentacion__texto{	
+	font-size: 24px;
+	padding: 5px;
+	display: inline-block;
+	width: 100%;
+
+}
+
+.presentacion__texto h1{
+	margin-bottom: px;
+	
+}
+
+
+
+.presentacion__texto p{	
+	font-size:  0.9 em;
+}
+
+
+.presentacion__texto2 p{	
+	font-size: 0.7 em;
+}
+
+.fondo__imagen{
+	display: inline-block;
+	width: 100%;
+}
+.presentacion__imagen{
+	display: inline-block;
+	width: 100%;
+}
+
+.presentacion__imagen img{
+	width: 100%;
+	/*background-color: #D4ECDD;*/
+}
+
+.imagenlogo img{
+	width: 3%;
+	right: 10px;
+	display: inline-block;
+  	position: absolute;
+}
+/*Historia*/
+
+.historia{
+	margin-top: 2%;
+}
+
+.historia__item--important{
+	background-color: #D4ECDD;
+	margin-bottom: 18px;
+	padding: 20px;
+	text-align:center;
+	border-radius: 15px;
+	display: inline-block;
+	width: 100%;
+	margin-top: 5px;
+	font-weight: bolder;
+}
+
+.historia__item--important:hover{
+	background-color: #D4ECDD;
+}
+
+
+@media only screen and (min-width:  992px){
+
+	/*Presentacion*/
+	.presentacion__texto{
+		
+		width: 60%;
+		position: relative;
+		bottom: 70px;
+		font-size: 29px;
+	}
+
+	.presentacion__imagen{
+		
+		width: 33%
+	}
+	
+	/*Historia*/
+	.historia__item--important{
+		
+		width: 100%;
+
+	}
+}
